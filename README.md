@@ -3,6 +3,7 @@
 🔗 **Published abstract (STEM Fellowship Journal, p. 132):**  
 https://journal.stemfellowship.org/doi/pdf/10.17975/sfj1201
 
+📄 Full manuscript (PDF):
 📄 [View full manuscript (PDF)](full_manuscript.pdf)
 ---
 

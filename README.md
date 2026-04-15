@@ -3,6 +3,9 @@
 🔗 **Published abstract (STEM Fellowship Journal, p. 132):**  
 https://journal.stemfellowship.org/doi/pdf/10.17975/sfj1201
 
+## Manuscript
+
+📄 [View full manuscript (PDF)](full_manuscript.pdf)
 ---
 
 ## Affiliation
@@ -15,12 +18,6 @@ This work was conducted as part of the **Harvard OpenBio Summer 2025 Program** (
 This repository contains the full manuscript for a scoping review evaluating Anti-CD19 CAR T-cell therapy as a potential treatment for systemic lupus erythematosus (SLE).
 
 The study synthesizes clinical evidence from case reports and pilot studies to assess remission rates, immunologic outcomes, and safety profiles in patients with refractory SLE.
-
----
-
-## Manuscript
-
-📄 [View full manuscript (PDF)](full_manuscript.pdf)
 
 ---
 

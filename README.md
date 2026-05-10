@@ -1,10 +1,14 @@
 # Anti-CD19 CAR T-Cell Therapy for Systemic Lupus Erythematosus (SLE): A Scoping Review
 
-🔗 **Published abstract (STEM Fellowship Journal):**  
-[View PDF](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj1201)
+1. 🔗 **Published Abstract (STEM Fellowship Journal)**  
+   [View PDF](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj1201)
 
-📄 **Full manuscript (PDF):**  
-[View PDF](full_manuscript.pdf)
+2. 🎥 **Harvard Undergraduate OpenBio Laboratory Student Research Program Presentation**  
+   https://youtu.be/q6AHf7ue168?t=1195  
+   *(Presentation segment: 19:55–25:00, approximately 5 minutes)*
+
+3. 📄 **Full Manuscript (PDF)**  
+   [View PDF](full_manuscript.pdf)
 
 ---
 

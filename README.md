@@ -84,9 +84,4 @@ The STEM Fellowship Journal applies the **Creative Commons Attribution 4.0 Inter
 
 ## License
 
-This repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
----
-
-## License
-
 This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
